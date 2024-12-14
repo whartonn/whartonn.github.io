@@ -1,5 +1,4 @@
-# Nathaniel Wharton
-### Random thingies
+### Random things
 
 ### 2024-12-14
 - Interesting: Ilya Sutskever: Reasoning can make AI, "less predictible" (🤯) [https://www.youtube.com/watch?v=1yvBqasHLZs](https://www.youtube.com/watch?v=1yvBqasHLZs)
