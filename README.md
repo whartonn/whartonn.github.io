@@ -1,2 +1,2 @@
-# whartonn.github.io
-Random Thoughts
+# Nathaniel Wharton
+A Place for random thoughts
