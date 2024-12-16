@@ -4,6 +4,7 @@
 - (for screensharing): [https://aistudio.google.com/live](https://gemini.google.com/)
 - (for research/podcasts): [https://notebooklm.google.com](https://gemini.google.com/)
 - (free for now): [https://chatgpt.com/](https://chatgpt.com/)
+- (free): [https://www.perplexity.ai/](https://www.perplexity.ai/)
 - Interesting: Ilya Sutskever: Reasoning can make AI, "less predictible" (🤯) [https://www.youtube.com/watch?v=1yvBqasHLZs](https://www.youtube.com/watch?v=1yvBqasHLZs)
 
 ### Kubernetes/ Containers
