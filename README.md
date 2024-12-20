@@ -17,4 +17,5 @@
 - python: convert various files to markdown library: [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
 - if you get a YubiKey in 2025, get one that supports FIDO 2 / WebAuthn at least.
 - cool private sharing: https://bitwarden.com/products/send/
+- python package mgmt/venvs https://github.com/astral-sh/uv
 - python PR library https://github.com/cased/supersonic
