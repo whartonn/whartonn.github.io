@@ -9,8 +9,8 @@
 
 ### Kubernetes/ Containers
 - K8s "simplified" docs (open source project): [https://kubespec.dev](https://kubespec.dev)
-- WASM containers can theoretically start even faster than distro-less Docker containers (no user-space OS setup), theoretically/maybe making them useful for serverless apps. Possibly more secure (maybe not((?)). Compilation to WASM and inclusion of e.g.: Prometheus, etc could be tricky, though. A technology to watch, at least.
-- Docker on an Intel Mac runs a Linux VM ( LinuxKit) with just the kernel (for x86_64-based containers. Only userspace goes in a container.
+- WASM containers can theoretically start faster than distro-less Docker containers (no user-space OS setup), maybe making them useful for serverless apps. Security is uncertain. Compilation to WASM perhaps a pain. A technology to watch, at least.
+- Docker on an Intel Mac runs a Linux VM (LinuxKit) with just the kernel (for x86_64-based containers). Only userspace goes in a container.
 - Docker on an M1+ Mac, uses QEMU for virtualization of x86_64 containers (slower 😢).
 
 ### Coding / Tech
