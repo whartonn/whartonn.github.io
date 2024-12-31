@@ -14,8 +14,8 @@
 - Docker on an M1+ Mac, uses QEMU for virtualization of x86_64 containers (slower 😢).
 
 ### Coding / Tech
+- DON'T use networksolutions.com as a domain name registrar. Too many dark patterns (e.g.: 3 unnecessary days to get an Authorization Code emailed to transfer a domain to another service).
 - python: convert various files to markdown library: [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
-- if you get a YubiKey in 2025, get one that supports FIDO 2 / WebAuthn at least.
 - cool private sharing: [https://bitwarden.com/products/send](https://bitwarden.com/products/send)
 - python package mgmt/venvs [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
 - python PR library [https://github.com/cased/supersonic](https://github.com/cased/supersonic)
