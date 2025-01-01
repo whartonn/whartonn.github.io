@@ -23,3 +23,7 @@
 - cool private sharing: [https://bitwarden.com/products/send](https://bitwarden.com/products/send)
 - python package mgmt/venvs [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
 - python PR library [https://github.com/cased/supersonic](https://github.com/cased/supersonic)
+
+### Security
+- useful web server config tool: [https://ssl-config.mozilla.org](https://ssl-config.mozilla.org)
+- current primary concerns with quantum computers concern potential(?) TLS key exchange / asymmetric cryptography weaknesses.
