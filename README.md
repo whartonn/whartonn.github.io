@@ -15,15 +15,15 @@
 - [https://paketo.io](https://paketo.io)
 - [https://buildpacks.io](https://buildpacks.io)
 
+### Security
+- useful web server config tool: [https://ssl-config.mozilla.org](https://ssl-config.mozilla.org)
+- current primary concerns with quantum computers concern potential(?) TLS key exchange / asymmetric cryptography weaknesses.
+
 ### Coding / Tech
-- DON'T use networksolutions.com as a domain registrar: dark patterns(!)
+- **DON'T** use networksolutions.com as a domain registrar: dark patterns abound(!)
   -  3 unnecessary days to get an authorization code emailed to transfer a domain to another registrar.
-  -  An additional 5-7 unnecessary days to wait for confirmation of a transfer after the authorization code was processed by the registrar.
+  -  5-7 additional unnecessary days to wait for confirmation of a transfer after the authorization code was processed by the registrar.
 - python: convert various files to markdown library: [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
 - cool private sharing: [https://bitwarden.com/products/send](https://bitwarden.com/products/send)
 - python package mgmt/venvs [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
 - python PR library [https://github.com/cased/supersonic](https://github.com/cased/supersonic)
-
-### Security
-- useful web server config tool: [https://ssl-config.mozilla.org](https://ssl-config.mozilla.org)
-- current primary concerns with quantum computers concern potential(?) TLS key exchange / asymmetric cryptography weaknesses.
