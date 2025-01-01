@@ -17,7 +17,7 @@
 
 ### Security
 - useful web server config tool: [https://ssl-config.mozilla.org](https://ssl-config.mozilla.org)
-- current primary concerns with quantum computers concern potential(?) TLS key exchange / asymmetric cryptography weaknesses.
+- current primary concerns with quantum computers concern potential(?) TLS key exchange / asymmetric cryptography.
 
 ### Coding / Tech
 - **DON'T** use networksolutions.com as a domain registrar: dark patterns abound(!)
