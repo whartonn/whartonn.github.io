@@ -14,7 +14,7 @@
 - Docker on an M1+ Mac, uses QEMU for virtualization of x86_64 containers (slower 😢).
 
 ### Coding / Tech
-- DON'T use networksolutions.com as a domain registrar. So many dark patterns(!)
+- DON'T use networksolutions.com as a domain registrar: dark patterns(!)
   -  3 unnecessary days to get an authorization code emailed to transfer a domain to another registrar.
   -  An additional 5-7 unnecessary days to wait for confirmation of a transfer after the authorization code was processed by the registrar.
 - python: convert various files to markdown library: [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
