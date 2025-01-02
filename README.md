@@ -12,8 +12,8 @@
 - WASM containers can theoretically start faster than distro-less Docker containers (no user-space OS setup), maybe making them useful for serverless apps. Security is uncertain. Compilation to WASM perhaps a pain. A technology to watch, at least.
 - Docker on an Intel Mac runs a Linux VM (LinuxKit) with just the kernel (for x86_64-based containers). Only userspace goes in a container.
 - Docker on an M1+ Mac, uses QEMU for virtualization of x86_64 containers (slower 😢).
-- [https://paketo.io](https://paketo.io)
-- [https://buildpacks.io](https://buildpacks.io)
+- Buildpack building blocks: [https://paketo.io](https://paketo.io)
+- `pack` cli used to create/interact with Buildpacks, create images [https://buildpacks.io](https://buildpacks.io)
 
 ### Security
 - useful web server config tool: [https://ssl-config.mozilla.org](https://ssl-config.mozilla.org)
