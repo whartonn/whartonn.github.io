@@ -1,8 +1,8 @@
 ## Very Random
 #### AI:
-- (free for now) 2.0 new: [https://gemini.google.com/](https://gemini.google.com/)
-- (for screensharing): [https://aistudio.google.com/live](https://gemini.google.com/)
-- (for research/podcasts): [https://notebooklm.google.com](https://gemini.google.com/)
+- (free for now) 2.0 new: [https://gemini.google.com/](https://gemini.google.com)
+- (for screensharing): [https://aistudio.google.com/live](https://aistudio.google.com/live)
+- (for research/podcasts): [https://notebooklm.google.com](https://notebooklm.google.com)
 - (free for now): [https://chatgpt.com/](https://chatgpt.com/)
 - (free): [https://www.perplexity.ai/](https://www.perplexity.ai/)
 - Interesting: Ilya Sutskever: Reasoning can make AI, "less predictible" (🤯) [https://www.youtube.com/watch?v=1yvBqasHLZs](https://www.youtube.com/watch?v=1yvBqasHLZs)
