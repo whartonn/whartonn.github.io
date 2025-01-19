@@ -5,7 +5,15 @@
 - (for research/podcasts): [https://notebooklm.google.com](https://notebooklm.google.com)
 - (free for now): [https://chatgpt.com](https://chatgpt.com/)
 - (free): [https://www.perplexity.ai](https://www.perplexity.ai/)
-- Interesting: Ilya Sutskever: Reasoning can make AI, "less predictible" (🤯) [https://www.youtube.com/watch?v=1yvBqasHLZs](https://www.youtube.com/watch?v=1yvBqasHLZs)
+
+### Coding / Tech
+- **DON'T** use networksolutions.com as a domain registrar: dark patterns abound(!)
+  -  3 unnecessary days to get an authorization code emailed to transfer a domain to another registrar.
+  -  5-7 additional unnecessary days to wait for confirmation of a transfer after the authorization code was processed by the registrar.
+- python: convert various files to markdown library: [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
+- cool private sharing: [https://bitwarden.com/products/send](https://bitwarden.com/products/send)
+- python package mgmt/venvs [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
+- python PR library [https://github.com/cased/supersonic](https://github.com/cased/supersonic)
 
 ### Kubernetes/ Containers
 - K8s "simplified" docs (open source project): [https://kubespec.dev](https://kubespec.dev)
@@ -17,13 +25,4 @@
 
 ### Security
 - useful web server config tool: [https://ssl-config.mozilla.org](https://ssl-config.mozilla.org)
-- current primary concerns with quantum computers concern potential(?) TLS key exchange / asymmetric cryptography.
-
-### Coding / Tech
-- **DON'T** use networksolutions.com as a domain registrar: dark patterns abound(!)
-  -  3 unnecessary days to get an authorization code emailed to transfer a domain to another registrar.
-  -  5-7 additional unnecessary days to wait for confirmation of a transfer after the authorization code was processed by the registrar.
-- python: convert various files to markdown library: [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
-- cool private sharing: [https://bitwarden.com/products/send](https://bitwarden.com/products/send)
-- python package mgmt/venvs [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
-- python PR library [https://github.com/cased/supersonic](https://github.com/cased/supersonic)
+- post quantum encryption for TLS key exchange: [https://radar.cloudflare.com/adoption-and-usage#post-quantum-encryption-adoption](https://radar.cloudflare.com/adoption-and-usage#post-quantum-encryption-adoption)  
