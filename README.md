@@ -24,5 +24,6 @@
 - `pack` cli tool to create images from buildpacks [https://buildpacks.io](https://buildpacks.io)
 
 ### Security
+- [Stratoshark](https://gitlab.com/wireshark/wireshark/-/blob/master/doc/stratoshark-quick-start.adoc)
 - useful web server config tool: [https://ssl-config.mozilla.org](https://ssl-config.mozilla.org)
 - post quantum encryption for TLS key exchange: [https://radar.cloudflare.com/adoption-and-usage#post-quantum-encryption-adoption](https://radar.cloudflare.com/adoption-and-usage#post-quantum-encryption-adoption)  
