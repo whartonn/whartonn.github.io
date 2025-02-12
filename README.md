@@ -5,6 +5,7 @@
 - (for research/podcasts): [https://notebooklm.google.com](https://notebooklm.google.com)
 - (free for now): [https://chatgpt.com](https://chatgpt.com/)
 - (free): [https://www.perplexity.ai](https://www.perplexity.ai/)
+- paid: [https://www.together.ai](https://www.together.ai)
 
 ### Coding / Tech
 - **DON'T** use networksolutions.com as a domain registrar: dark patterns abound(!)
