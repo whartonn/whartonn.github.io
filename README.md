@@ -21,9 +21,10 @@
 - K8s "simplified" docs (open source project): [https://kubespec.dev](https://kubespec.dev)
 - Docker on an Intel Mac runs a Linux VM (LinuxKit) with just the kernel (for x86_64-based containers). Only userspace goes in a container.
 - Docker on an M1+ Mac, uses QEMU for virtualization of x86_64 containers (slower 😢).
-- Docker Bake looks interesting.
 - Buildpacks: [https://paketo.io](https://paketo.io)
 - `pack` cli tool to create images from buildpacks [https://buildpacks.io](https://buildpacks.io)
+- Docker Bake [https://docs.docker.com/build/bake/introduction](
+https://docs.docker.com/build/bake/introduction)
 
 ### Security
 - [Stratoshark](https://gitlab.com/wireshark/wireshark/-/blob/master/doc/stratoshark-quick-start.adoc)
