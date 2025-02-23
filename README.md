@@ -1,4 +1,13 @@
-## Very Random
+## Links
+
+### Numbers
+- [S&P 500](https://www.google.com/search?q=s%26p500+stock+price)
+- [AXP](https://www.google.com/search?q=AXP+stock+price)
+- [bitcoin](https://www.google.com/search?q=bitcoin+price)
+- [30-year-mortgage](https://fred.stlouisfed.org/series/MORTGAGE30US)
+- [KWEB](https://www.google.com/search?q=kweb+stock+price)
+- [usd vs eur](https://www.google.com/search?q=usd%20vs%20eur)
+
 #### AI:
 - (free for now) 2.0 new: [https://gemini.google.com](https://gemini.google.com)
 - (for screensharing): [https://aistudio.google.com/live](https://aistudio.google.com/live)
@@ -8,16 +17,16 @@
 - paid: [https://www.together.ai](https://www.together.ai)
 - (home clusters): [exo](https://github.com/exo-explore/exo?tab=readme-ov-file)
 
-### Coding / Tech
+### Coding/Tech
 - **DON'T** use networksolutions.com as a domain registrar: dark patterns abound(!)
   -  3 unnecessary days to get an authorization code emailed to transfer a domain to another registrar.
   -  5-7 additional unnecessary days to wait for confirmation of a transfer after the authorization code was processed by the registrar.
-- python: convert various files to markdown library: [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
 - cool private sharing: [https://bitwarden.com/products/send](https://bitwarden.com/products/send)
+- python: convert various files to markdown library: [https://github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
 - python package mgmt/venvs [https://github.com/astral-sh/uv](https://github.com/astral-sh/uv)
 - python PR library [https://github.com/cased/supersonic](https://github.com/cased/supersonic)
 
-### Kubernetes/ Containers
+### Kubernetes/Containers
 - K8s "simplified" docs (open source project): [https://kubespec.dev](https://kubespec.dev)
 - Docker on an Intel Mac runs a Linux VM (LinuxKit) with just the kernel (for x86_64-based containers). Only userspace goes in a container.
 - Docker on an M1+ Mac, uses QEMU for virtualization of x86_64 containers (slower 😢).
@@ -28,5 +37,5 @@ https://docs.docker.com/build/bake/introduction)
 
 ### Security
 - [Stratoshark](https://gitlab.com/wireshark/wireshark/-/blob/master/doc/stratoshark-quick-start.adoc)
-- useful web server config tool: [https://ssl-config.mozilla.org](https://ssl-config.mozilla.org)
+- web server config: [https://ssl-config.mozilla.org](https://ssl-config.mozilla.org)
 - post quantum encryption for TLS key exchange: [https://radar.cloudflare.com/adoption-and-usage#post-quantum-encryption-adoption](https://radar.cloudflare.com/adoption-and-usage#post-quantum-encryption-adoption)  
