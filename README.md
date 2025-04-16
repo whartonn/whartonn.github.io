@@ -1,7 +1,7 @@
 ## Links
 
 ### Numbers
-- [s&p](https://www.google.com/search?q=s%26p500+stock+price)
+- [s&p](https://www.google.com/search?q=s%26p500+stock+price) | [s&p futures](https://www.investing.com/indices/us-spx-500-futures)
 - [axp](https://www.google.com/search?q=AXP+stock+price)
 - [bitcoin](https://www.google.com/search?q=bitcoin+price)
 - [30-year-mortgage](https://fred.stlouisfed.org/series/MORTGAGE30US)
