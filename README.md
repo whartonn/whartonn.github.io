@@ -18,6 +18,7 @@
 - (home clusters): [exo](https://github.com/exo-explore/exo?tab=readme-ov-file)
 
 ### Coding/Tech
+- [pre-commit.com](https://pre-commit.com)
 - **DON'T** use networksolutions.com as a domain registrar: dark patterns abound(!)
   -  3 unnecessary days to get an authorization code emailed to transfer a domain to another registrar.
   -  5-7 additional unnecessary days to wait for confirmation of a transfer after the authorization code was processed by the registrar.
